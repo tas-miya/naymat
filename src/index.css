@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@900&display=swap');
+
+.sans-serif {
+  font-family: 'Kanit', sans-serif;
+}
+
+.prose img {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.home-name {
+  font-size: 150px;
+}
